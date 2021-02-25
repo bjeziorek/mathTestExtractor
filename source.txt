@@ -1,0 +1,214 @@
+// question: 0  name: Switch category to $module$/top/Domyślna dla: S6  Geometria płaska
+$CATEGORY: $module$/top/Domyślna dla: S6  Geometria płaska
+
+
+// question: 5034  name: geo10
+::geo10::[html]<p>Dany jest prostokąt <span id\="MathJax-Element-58-Frame" tabindex\="0"><nobr><span id\="MathJax-Span-507"><span id\="MathJax-Span-508"><span id\="MathJax-Span-509"><span id\="MathJax-Span-510"><span id\="MathJax-Span-511"><span id\="MathJax-Span-512"><span id\="MathJax-Span-513">A</span><span id\="MathJax-Span-514">B</span><span id\="MathJax-Span-515">C</span><span id\="MathJax-Span-516">D</span></span></span></span></span></span></span></nobr></span>. Okręgi o średnicach <span id\="MathJax-Element-59-Frame" tabindex\="0"><nobr><span id\="MathJax-Span-517"><span id\="MathJax-Span-518"><span id\="MathJax-Span-519"><span id\="MathJax-Span-520"><span id\="MathJax-Span-521"><span id\="MathJax-Span-522"><span id\="MathJax-Span-523">A</span><span id\="MathJax-Span-524">B</span></span></span></span></span></span></span></nobr></span> i <span id\="MathJax-Element-60-Frame" tabindex\="0"><nobr><span id\="MathJax-Span-525"><span id\="MathJax-Span-526"><span id\="MathJax-Span-527"><span id\="MathJax-Span-528"><span id\="MathJax-Span-529"><span id\="MathJax-Span-530"><span id\="MathJax-Span-531">A</span><span id\="MathJax-Span-532">D</span></span></span></span></span></span></span></nobr></span> przecinają się w punktach <span id\="MathJax-Element-61-Frame" tabindex\="0"><nobr><span id\="MathJax-Span-533"><span id\="MathJax-Span-534"><span id\="MathJax-Span-535"><span id\="MathJax-Span-536"><span id\="MathJax-Span-537"><span id\="MathJax-Span-538"><span id\="MathJax-Span-539">A</span></span></span></span></span></span></span></nobr></span> i <span id\="MathJax-Element-62-Frame" tabindex\="0"><nobr><span id\="MathJax-Span-540"><span id\="MathJax-Span-541"><span id\="MathJax-Span-542"><span id\="MathJax-Span-543"><span id\="MathJax-Span-544"><span id\="MathJax-Span-545"><span id\="MathJax-Span-546">P</span></span></span></span></span></span></span></nobr></span> (zobacz rysunek). Wykaż, że punkty <span id\="MathJax-Element-63-Frame" tabindex\="0"><nobr><span id\="MathJax-Span-547"><span id\="MathJax-Span-548"><span id\="MathJax-Span-549"><span id\="MathJax-Span-550"><span id\="MathJax-Span-551"><span id\="MathJax-Span-552"><span id\="MathJax-Span-553">B</span><span id\="MathJax-Span-554">,</span><span id\="MathJax-Span-555">P</span></span></span></span></span></span></span></nobr></span> i <span id\="MathJax-Element-64-Frame" tabindex\="0"><nobr><span id\="MathJax-Span-556"><span id\="MathJax-Span-557"><span id\="MathJax-Span-558"><span id\="MathJax-Span-559"><span id\="MathJax-Span-560"><span id\="MathJax-Span-561"><span id\="MathJax-Span-562">D</span></span></span></span></span></span></span></nobr></span> leżą na jednej prostej.</p><p><br></p><p><img src\="@@PLUGINFILE@@/geo6.jpg" alt\="" role\="presentation" class\="img-responsive atto_image_button_text-bottom" width\="379" height\="323"></p><p><i>Zadanie rozwiąż na kartce i zdjęcie prześlij jako załącznik</i><br></p>{}
+
+
+// question: 5025  name: trójkąty
+::trójkąty::[html]<p>W trójkącie ABC boki AC i BC mają taką samą długość. Na półprostej \\( BC^ \\rightarrow  \\) poza bokiem BC zaznaczono punkt D tak, że prosta przechodząca przez punkt D i prostopadła do boku AB przecina się z bokiem AC w punkcie E.&nbsp; Udowodnij, że trójkąt CDE jest równoramienny.</p><p><img src\="@@PLUGINFILE@@/s6.4.jpg?time\=1590771747177" alt\="" role\="presentation" class\="img-responsive atto_image_button_text-bottom" width\="371" height\="354"></p><p>Zadanie rozwiąż w zeszycie , zrób zdjęcie i prześlij jako załącznik<br></p>{}
+
+
+// question: 5022  name: s6 podział odcinka
+::s6 podział odcinka::[html]<p>Punkty <i>C </i>i <i>D</i> dzielą odcinek <i>AB</i> o długości 27 cm na trzy odcinki <i>AC</i>, <i>CD</i>, <i>DB</i>, których stosunek długości jest równy 5 \: 3 \: 1.<br></p><pre><br></pre>{
+	=<p><b>Długość odcinka <i>AC</i> jest równa 15 cm</b>.<br></p> -> PRAWDA
+	=<p><b>Długość odcinka <i>CD</i> jest równa 12 cm</b><br></p> -> FAŁSZ
+	=<p><b>Długość odcinka <i>DB</i> jest równa 3 cm</b><br></p> -> PRAWDA
+}
+
+
+// question: 5023  name: S6 prawda fałsz
+::S6 prawda fałsz::[html]<p>Oceń prawdziwość zdań<br></p>{
+	=<p><b>Jeden z kątów przyległych ma miarę o 42º większą od drugiego. <br>Miara&nbsp; mniejszego z tych kątów jest równa 69º.</b><br></p> -> Prawda
+	=<p><b>Stosunek miar kątów przyległych jest równy 3 \: 2. Różnica ich miar jest równa 36º.</b><br></p> -> Prawda
+	= -> Fałsz
+}
+
+
+// question: 5011  name: fig nieograniczona
+::fig nieograniczona::[html]<p>Figurą wypukłą i nieograniczoną jest<br></p>{
+	=<p>kąt rozwarty<br></p>
+	~<p>kwadrat<br></p>
+	~<p>okrąg<br></p>
+	~<p>kąt o mierze 300<sup>0</sup><br></p>
+}
+
+
+// question: 5036  name: geo11
+::geo11::[html]<p><p>Kąt środkowy i kąt wpisany są oparte\nna tym samym łuku. Suma ich miar jest równa <span role\="presentation" aria-readonly\="true" id\="MathJax-Element-57-Frame" data-mathml\="<math xmlns\=&quot;http\://www.w3.org/1998/Math/MathML&quot;><mi>&amp;\#x03B6;</mi></math>" style\="position\: relative;"><nobr aria-hidden\="true"><span id\="MathJax-Span-302"><span id\="MathJax-Span-303"><span id\="MathJax-Span-304"><span id\="MathJax-Span-305">180</span>∘. Jaka jest\nmiara kąta środkowego?</span></span></span></nobr><span class\="MJX_Assistive_MathML" role\="presentation"><math xmlns\="http\://www.w3.org/1998/Math/MathML"><mi>ζ</mi></math></span></span></p><nobr>\n\n\n\n\n</nobr><br></p>{
+	=<p>\\( 120^0 \\)<br></p>
+	~<p>\\( 60^0 \\)<br></p>
+	~<p>\\( 135^0 \\)<br></p>
+	~<p>\\( 30^0 \\)<br></p>
+}
+
+
+// question: 5037  name: geo12
+::geo12::[html]<p></p><p>Dane są dwa okręgi o\nśrodkach <nobr><span id\="MathJax-Span-170"><span id\="MathJax-Span-171"><span id\="MathJax-Span-172"><i>\\( S_1, S_2 \\)&nbsp;</i></span></span></span></nobr>i promieniach odpowiednio równych&nbsp;\\( r_1\\ i\\ r_2 \\)<nobr><span id\="MathJax-Span-183"><span id\="MathJax-Span-184"><span id\="MathJax-Span-185"></span></span></span></nobr>.\nJeśli&nbsp;\\( |S_1S_2|\\ \= 17\\ ,\\ r_1\\ \=\\ 9\\ ,\\ r_2\\ \=\\ 8 \\)&nbsp; to okręgi\:</p><br><p></p>{
+	=<p>są stycznie zewnętrznie<br></p>
+	~<p>są styczne wewnętrznie<br></p>
+	~<p>nie mają punktów wspólnych\n&nbsp;<br></p>
+	~<p>przecinają się w dwóch punktach<br></p>
+}
+
+
+// question: 5028  name: geo3
+::geo3::[html]<p><p>Na&nbsp; rysunku mamy zaznaczone trzy kąty\: <i>&nbsp;\\(  \\alpha,\\ \\beta,\\ \\gamma.  \\)</i>\nIle z tych trzech kątów ma miarę 50°?</p><img src\="@@PLUGINFILE@@/geo3.jpg" alt\="" role\="presentation" class\="img-responsive atto_image_button_text-bottom" width\="399" height\="351"><br></p>{
+	~<p>żaden kąt<br></p>
+	=<p>jeden kąt<br></p>
+	~<p>dwa kąty<br></p>
+	~<p>trzy kąty<br></p>
+}
+
+
+// question: 5029  name: geo4
+::geo4::[html]<p><p>Wierzchołki trójkąta <i>ABC</i>\nleżą na okręgu i środek <i>O</i> okręgu leży wewnątrz trójkąta.\nJeśli kąt <i>ABO</i> ma miarę&nbsp;\\( 20^0 \\) , to kąt <i>ACB</i> ma miarę\: </p><br></p>{
+	=<p>\\( 70^0 \\)<br></p>
+	~<p>\\( 40^0 \\)<br></p>
+	~<p>\\( 20^0 \\)<br></p>
+	~<p>\\( 10^0 \\)<br></p>
+}
+
+
+// question: 5030  name: geo5
+::geo5::[html]<p><p>Cięciwa okręgu ma długość 8\ncm i jest oddalona od jego środka o 3\ncm. Promień tego okręgu ma długość </p><br></p>{
+	=<p>5 cm<br></p>
+	~<p>3 cm<br></p>
+	~<p>4 cm<br></p>
+	~<p>8 cm<br></p>
+}
+
+
+// question: 5032  name: geo7
+::geo7::[html]<p><p>Dane są dwa okręgi o promieniach 12 i 17. Mniejszy okrąg przechodzi przez środek większego okręgu.\nOdległość między środkami tych okręgów jest równa </p><br></p>{
+	=<p>12<br></p>
+	~<p>17<br></p>
+	~<p>5<br></p>
+	~<p>29<br></p>
+}
+
+
+// question: 5035  name: geo9
+::geo9::[html]<p><p>Odcinki <span role\="textbox" aria-readonly\="true" id\="MathJax-Element-16-Frame"><nobr><span id\="MathJax-Span-56"><span id\="MathJax-Span-57"><span id\="MathJax-Span-58">AB i <span role\="textbox" aria-readonly\="true" id\="MathJax-Element-17-Frame"></span></span></span></span></nobr><nobr><span id\="MathJax-Span-60"><span id\="MathJax-Span-61"><span id\="MathJax-Span-62">DE są równoległe.</span></span></span></nobr></span></p><nobr>\n\n</nobr><p><nobr>Długości odcinków <span role\="textbox" aria-readonly\="true" id\="MathJax-Element-18-Frame"></span></nobr><nobr><span id\="MathJax-Span-64"><span id\="MathJax-Span-65"><span id\="MathJax-Span-66">CD,DE i <span role\="textbox" aria-readonly\="true" id\="MathJax-Element-19-Frame"></span></span></span></span></nobr><nobr><span id\="MathJax-Span-71"><span id\="MathJax-Span-72"><span id\="MathJax-Span-73">AB są odpowiednio równe <span role\="textbox" aria-readonly\="true" id\="MathJax-Element-20-Frame"></span></span></span></span></nobr><nobr><span id\="MathJax-Span-75"><span id\="MathJax-Span-76"><span id\="MathJax-Span-77">1,3 i <span role\="textbox" aria-readonly\="true" id\="MathJax-Element-21-Frame"></span></span></span></span></nobr><nobr><span id\="MathJax-Span-80"><span id\="MathJax-Span-81"><span id\="MathJax-Span-82">9. </span></span></span></nobr></p><nobr>\n\n</nobr><p><nobr>Długość odcinka <span role\="textbox" aria-readonly\="true" id\="MathJax-Element-22-Frame"></span></nobr><nobr><span id\="MathJax-Span-83"><span id\="MathJax-Span-84"><span id\="MathJax-Span-85">AD jest równa\:</span></span></span></nobr></p><p><nobr><span id\="MathJax-Span-83"><span id\="MathJax-Span-84"><span id\="MathJax-Span-85"><img src\="@@PLUGINFILE@@/geo7.jpg" alt\="" role\="presentation" class\="img-responsive atto_image_button_text-bottom" width\="320" height\="155"><br></span></span></span></nobr></p><nobr>\n\n\n\n\n</nobr><br></p>{
+	=<p>2<br></p>
+	~<p>3<br></p>
+	~<p>5<br></p>
+	~<p>6<br></p>
+}
+
+
+// question: 5017  name: s.6 trójkąty
+::s.6 trójkąty::[html]<p>W trójkącie ABC&nbsp; \\( |AD| \= 1\\frac\{1\}\{5\} \\) cm, |DB| \= 7,5 cm. <img src\="@@PLUGINFILE@@/s6.3.jpg" alt\="" role\="presentation" class\="img-responsive atto_image_button_text-bottom" width\="317" height\="212"><br></p><p>Odcinek CD ma długość\:<br></p>{
+	=<p>3 cm<br></p>
+	~<p>2 cm<br></p>
+	~<p>4 cm<br></p>
+	~<p>5 cm<br></p>
+}
+
+
+// question: 5012  name: s6 kąty
+::s6 kąty::[html]<p>Na rysunku proste <b><i>a</i></b><i> i <b>b</b> </i>są równoległe, a prosta <b><i>k </i></b>jest prostopadła do prostej <b><i>l</i></b></p><p><b><i><img src\="@@PLUGINFILE@@/s6.1.jpg" alt\="" role\="presentation" class\="img-responsive atto_image_button_text-bottom" width\="518" height\="321"><br></i></b></p><p>Zatem<br><b><i></i></b></p>{
+	=x \= 60<sup>0</sup>
+	~<p>x \= 150<sup>0</sup><br></p>
+	~<p>x \= 120<sup>0</sup><br></p>
+	~<p>x \= 30<sup>0</sup><br></p>
+}
+
+
+// question: 5015  name: s6 pitagoras
+::s6 pitagoras::[html]<p>W trójkącie prostokątnym jedna z przyprostokątnych jest o 1 cm krótsza od przeciwprostokątnej, a dryga przyprostokątna ma długość 5 cm. Przeciwprostokątna tego trójkąta ma długość\:<br></p>{
+	=<p>13 cm<br></p>
+	~<p>5 cm<br></p>
+	~<p>10 cm<br></p>
+	~<p>12 cm<br></p>
+}
+
+
+// question: 5021  name: s6 przekątne
+::s6 przekątne::[html]<p>Liczba przekątnych pewnego wielokąta foremnego jest trzy razy większa od liczby jego boków.</p><p>&nbsp;Kąt wewnętrzny tego wielokąta ma miarę\:<br></p>{
+	=<p>140<sup>0</sup><br></p>
+	~<p>120<sup>0</sup><br></p>
+	~<p>150<sup>0</sup><br></p>
+	~<p>100<sup>0</sup><br></p>
+}
+
+
+// question: 5013  name: s6 tales
+::s6 tales::[html]<p>Na rysunku proste <i><b>k</b> </i>i<i> <b>l </b></i>są równoległe.<img src\="@@PLUGINFILE@@/s6.2.jpg" alt\="" role\="presentation" class\="img-responsive atto_image_button_text-bottom" width\="422" height\="338"></p><p>Wtedy<br></p>{
+	=<p>x \= 4<br></p>
+	~<p>x \= 3<br></p>
+	~<p>x \= 5<br></p>
+	~<p>x \= 6<br></p>
+}
+
+
+// question: 5016  name: s6 trójkąt
+::s6 trójkąt::[html]<p>W trójkącie o bokach długości\: 4, 5, 6 połączono środki boków i w ten sposób otrzymano nowy trójkąt. Obwód otrzymanego trójkąta jest równy\:<br></p>{
+	=<p>7,5<br></p>
+	~<p>5,5<br></p>
+	~<p>6,5<br></p>
+	~<p>8,5<br></p>
+}
+
+
+// question: 5019  name: s6 trójkąt
+::s6 trójkąt::[html]<p>Boki trójkąta mają długości 2a+ 5; 2a; a+2, gdzie a jest liczbą pierwszą. Wówczas liczba a może być równa\:<br></p>{
+	=<p>5<br></p>
+	~<p>3<br></p>
+	~<p>2<br></p>
+	~<p>1<br></p>
+}
+
+
+// question: 5020  name: s6 trójkąt
+::s6 trójkąt::[html]<p>W trójkącie ABC poprowadzono trzy proste równoległe do boku AB, dzielące bok BC na cztery odcinki równej długości. Suma długości powstałych wewnątrz trójkąta jest o 6 dm większa od długości boku AB. Długość boku AB jest równa\: <br></p>{
+	=<p>12 dm<br></p>
+	~<p>20 dm<br></p>
+	~<p>15 dm<br></p>
+	~<p>16 dm<br></p>
+}
+
+
+// question: 5018  name: s6 trójkąty
+::s6 trójkąty::[html]<p>W trójkącie ostrokątnym ABC poprowadzono wysokości CD i AE.</p><p> Wiadomo, że\: |DB| \= 2,5; |CD| \= 5 cm oraz |AE| \= 4 cm.&nbsp; Wówczas\:<br></p>{
+	=<p>|EB| \= 2 cm<br></p>
+	~<p>2,25 cm<br></p>
+	~<p>3 cm<br></p>
+	~<p>\\( 3\\frac\{1\}\{8\} \\) cm<br></p>
+}
+
+
+// question: 5014  name: s6 wł trójkąta
+::s6 wł trójkąta::[html]<p>Dwa boki trójkąta mają długości\: 4 oraz \\( 5\\frac\{1\}\{2\} \\), a obwód tego trójkąta jest liczbą naturalną. Trzeci bok tego trójkąta może mieć maksymalnie długość równą\:<br></p>{
+	=<p>8,5<br></p>
+	~<p>9<br></p>
+	~<p>7,5<br></p>
+	~<p>5,5<br></p>
+}
+
+
+// question: 5031  name: geo6
+::geo6::[html]<p>Kąt \\(  \\alpha  \\) ma miarę</p><p><img src\="@@PLUGINFILE@@/geo4.jpg" alt\="" role\="presentation" class\="img-responsive atto_image_button_text-bottom" width\="365" height\="371"></p><p><i>Wpisz liczbę bez jednostki</i><br></p>{#
+	=%100%110:0#
+}
+
+
+// question: 5033  name: geo8
+::geo8::[html]<p>Oblicz miarę kąta \\(  \\alpha  \\) miedzy cięciwą PQ a styczną do okręgu w punkcie P.</p><p><br></p><p><img src\="@@PLUGINFILE@@/geo5.jpg" alt\="" role\="presentation" class\="img-responsive atto_image_button_text-bottom" width\="344" height\="268"></p><p><i>Wpisz liczbę bez jednostek</i><br></p>{
+	=%100%65#
+}
+
+
+// question: 5026  name: geo1
+::geo1::[html]<p>Na rysunku odcinek AB jest równy BC?</p><p><img src\="@@PLUGINFILE@@/geo1.jpg" alt\="" role\="presentation" class\="img-responsive atto_image_button_text-bottom" width\="376" height\="370"><br></p>{TRUE}
+
+
+// question: 5027  name: geo2
+::geo2::[html]<p>Kąt \\(  \\alpha  \\) zaznaczony na rysunku ma miarę \\( 40^0 \\)</p><p><br></p><p><img src\="@@PLUGINFILE@@/geo2.jpg" alt\="" role\="presentation" class\="img-responsive atto_image_button_text-bottom" width\="393" height\="337"><br></p>{FALSE}
+
+
+// question: 5024  name: s6 wielokąt
+::s6 wielokąt::[html]<p><b><b>Dwudziestokąt wypukły ma 170 przekątnych.</b></b><br></p>{TRUE}
+
+

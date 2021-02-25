@@ -1,0 +1,214 @@
+
+
+
+
+
+Dany jest prostokąt ABCD. Okręgi o średnicach AB i AD przecinają się w punktach A i P (zobacz rysunek). Wykaż, że punkty B,P i D leżą na jednej prostej.
+
+
+
+W trójkącie ABC boki AC i BC mają taką samą długość. Na półprostej ( BC^ →  ) poza bokiem BC zaznaczono punkt D tak, że prosta przechodząca przez punkt D i prostopadła do boku AB przecina się z bokiem AC w punkcie E. Udowodnij, że trójkąt CDE jest równoramienny.
+
+
+
+Punkty C i D dzielą odcinek AB o długości 27 cm na trzy odcinki AC, CD, DB, których stosunek długości jest równy 5 : 3 : 1.
+Długość odcinka AC jest równa 15 cm.
+Długość odcinka CD jest równa 12 cm
+Długość odcinka DB jest równa 3 cm
+
+
+
+
+Oceń prawdziwość zdań
+Jeden z kątów przyległych ma miarę o 42º większą od drugiego. Miara mniejszego z tych kątów jest równa 69º.
+Stosunek miar kątów przyległych jest równy 3 : 2. Różnica ich miar jest równa 36º.
+= - Fałsz
+
+
+
+
+Figurą wypukłą i nieograniczoną jest
+kąt rozwarty
+kwadrat
+okrąg
+kąt o mierze 3000
+
+
+
+
+
+( 120° )
+( 60° )
+( 135° )
+( 30° )
+
+
+
+
+
+są stycznie zewnętrznie
+są styczne wewnętrznie
+nie mają punktów wspólnychn
+przecinają się w dwóch punktach
+
+
+
+
+Na rysunku mamy zaznaczone trzy kąty: (  α, β, γ.  )nIle z tych trzech kątów ma miarę 50°?
+żaden kąt
+jeden kąt
+dwa kąty
+trzy kąty
+
+
+
+
+Wierzchołki trójkąta ABCnleżą na okręgu i środek O okręgu leży wewnątrz trójkąta.nJeśli kąt ABO ma miarę( 20° ) , to kąt ACB ma miarę: 
+( 70° )
+( 40° )
+( 20° )
+( 10° )
+
+
+
+
+Cięciwa okręgu ma długość 8ncm i jest oddalona od jego środka o 3ncm. Promień tego okręgu ma długość 
+5 cm
+3 cm
+4 cm
+8 cm
+
+
+
+
+Dane są dwa okręgi o promieniach 12 i 17. Mniejszy okrąg przechodzi przez środek większego okręgu.nOdległość między środkami tych okręgów jest równa 
+12
+17
+5
+29
+
+
+
+
+Odcinki AB i DE są równoległe.
+2
+3
+5
+6
+
+
+
+
+W trójkącie ABC ( |AD| = 1frac{1}{5} ) cm, |DB| = 7,5 cm. 
+3 cm
+2 cm
+4 cm
+5 cm
+
+
+
+
+Na rysunku proste a i b są równoległe, a prosta k jest prostopadła do prostej l
+=x = 600
+x = 1500
+x = 1200
+x = 300
+
+
+
+
+W trójkącie prostokątnym jedna z przyprostokątnych jest o 1 cm krótsza od przeciwprostokątnej, a dryga przyprostokątna ma długość 5 cm. Przeciwprostokątna tego trójkąta ma długość:
+13 cm
+5 cm
+10 cm
+12 cm
+
+
+
+
+Liczba przekątnych pewnego wielokąta foremnego jest trzy razy większa od liczby jego boków.
+1400
+1200
+1500
+1000
+
+
+
+
+Na rysunku proste k i l są równoległe.
+x = 4
+x = 3
+x = 5
+x = 6
+
+
+
+
+W trójkącie o bokach długości: 4, 5, 6 połączono środki boków i w ten sposób otrzymano nowy trójkąt. Obwód otrzymanego trójkąta jest równy:
+7,5
+5,5
+6,5
+8,5
+
+
+
+
+Boki trójkąta mają długości 2a+ 5; 2a; a+2, gdzie a jest liczbą pierwszą. Wówczas liczba a może być równa:
+5
+3
+2
+1
+
+
+
+
+W trójkącie ABC poprowadzono trzy proste równoległe do boku AB, dzielące bok BC na cztery odcinki równej długości. Suma długości powstałych wewnątrz trójkąta jest o 6 dm większa od długości boku AB. Długość boku AB jest równa: 
+12 dm
+20 dm
+15 dm
+16 dm
+
+
+
+
+W trójkącie ostrokątnym ABC poprowadzono wysokości CD i AE.
+|EB| = 2 cm
+2,25 cm
+3 cm
+( 3frac{1}{8} ) cm
+
+
+
+
+Dwa boki trójkąta mają długości: 4 oraz ( 5frac{1}{2} ), a obwód tego trójkąta jest liczbą naturalną. Trzeci bok tego trójkąta może mieć maksymalnie długość równą:
+8,5
+9
+7,5
+5,5
+
+
+
+
+Kąt (  α  ) ma miarę
+=%100%110:0#
+
+
+
+
+Oblicz miarę kąta (  α  ) miedzy cięciwą PQ a styczną do okręgu w punkcie P.
+=%100%65#
+
+
+
+
+Na rysunku odcinek AB jest równy BC?
+
+
+
+Kąt (  α  ) zaznaczony na rysunku ma miarę ( 40° )
+
+
+
+Dwudziestokąt wypukły ma 170 przekątnych.
+
+
